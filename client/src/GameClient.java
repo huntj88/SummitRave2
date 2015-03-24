@@ -15,7 +15,7 @@ import javax.swing.JPanel;
 
 public class GameClient extends JPanel implements Runnable, KeyListener, MouseListener, MouseMotionListener
 {
-
+	//update
 	private Socket socket;
 	// The streams we communicate to the server; these come
 	// from the socket
